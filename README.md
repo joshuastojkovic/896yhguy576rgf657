@@ -14,7 +14,7 @@ LCC Elites Webpage made by MrCoen, Josh Stojkovic, Jayden Hindley
 
 
 <h2>What is this page for?</h2>
-<p>This page was created for the students of Leeds City College to be able to share their coding projects with the rest of the college and maby even start projects together, it also has a hub where the students will have all the link needed in one place to create maximun efficiency when taking notes in class<br>
+<p>This page was created  to be able to share their coding projects with the rest of the college and maby even start projects together, it also has a hub where the students will have all the link needed in one place to create maximun efficiency when taking notes in class<br>
 Teachers can also have files uploaded onto here which makes the downloading files so much easier and faster.</p>
 
 <h2>Future Updates</h2>
